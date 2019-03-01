@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Bingzhen Zhao" # edit this with your info
 title_separator          : "-"
-name                     : &name "Your Name" # edit this with your info
-description              : &description "personal description" # edit this with your info
-url                      : https://zbzMonkey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bingzhen Zhao" # edit this with your info
+description              : &description "I am Bingzhen Zhao, a student who is majored in neuroscience. It is interesting for me to explore the neuron circuit behind the behaviours ." # edit this with your info
+url                      : https://zbzMonkey.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io" # edit this with your info
+repository               : "zbzMonkey/zbzMonkey.github.io" # edit this with your info
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bingzhen Zhao" # edit this with your info
   avatar           : "profile.png" # replace with your photo
-  bio              : "Your biography for the left-hand sidebar" # edit this with your info
+  bio              : "a student majored in Neurobiology" # edit this with your info
   location         : "Hefei, China" # edit this with your info
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages" # edit this with your info
+  github           : "zbzMonkey" # edit this with your info
   google_plus      :
   keybase          :
   instagram        :
