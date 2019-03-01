@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-###
+
 I am Bingzhen Zhao, a student who is majored in neuroscience. I want to know more about how the animals regulate behaviors and how some diseases occur. 
 
-###
+
 I am currently at [Wenlab, the school of life sciences, University of Science and Technology of China](http://en.biox.ustc.edu.cn/). Now I work to find how the sensory information integrate in C.elegans.
