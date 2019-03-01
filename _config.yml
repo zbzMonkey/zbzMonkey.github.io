@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title" # edit this with your info
+title                    : "Bingzhen Zhao" # edit this with your info
 title_separator          : "-"
 name                     : &name "Your Name" # edit this with your info
 description              : &description "personal description" # edit this with your info
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name" # edit this with your info
+  name             : "Bingzhen Zhao" # edit this with your info
   avatar           : "profile.png" # replace with your photo
   bio              : "Your biography for the left-hand sidebar" # edit this with your info
-  location         : "Location" # edit this with your info
+  location         : "Hefei, China" # edit this with your info
   employer         :
   pubmed           :
   googlescholar    :
-  email            : # edit this with your info
+  email            : zbz96@mail.ustc.edu.cn # edit this with your info
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
