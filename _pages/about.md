@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am Bingzhen Zhao, a student who is majored in neuroscience. I want to know more about the mechanism of learning and memory, attentions and emotions. I also want to learn something aboout engineering so that I can design some products to help ppeople with neuron system disorders if possible.
-I am currently at [Wenlab, the school of life sciences, University of Science and Technology of China](http://en.biox.ustc.edu.cn/). Now I work to find how the sensory information integrate in C.elegans.
+I am Bingzhen Zhao, a student who is majored in neuroscience. I want to know more about the mechanism of learning and memory, attention and emotion. I also want to learn something about engineering so that I can design some products to help people with neuron system disorders if possible.
+I am currently at [Wenlab, the school of life sciences, University of Science and Technology of China (USTC)](http://en.biox.ustc.edu.cn/). Now I am working to find how the sensory information integrate in C.elegans.
 
 
 ---
@@ -18,4 +18,8 @@ I am currently at [Wenlab, the school of life sciences, University of Science an
 ---
 
 
-I have finished my behaviour experiment.
+I am preparing to graduate from USTC. It is a great time these two years. I have learned a lot and made some good friends.  
+I am now applying for a PhD programm. Hope I can find another good place to keep improving myself.
+
+
+
