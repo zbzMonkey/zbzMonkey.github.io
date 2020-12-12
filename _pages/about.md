@@ -19,7 +19,7 @@ I am currently at [Wenlab, the school of life sciences, University of Science an
 
 
 I am preparing to graduate from USTC. It is a great time these two years. I have learned a lot and made some good friends.  
-I am now applying for a PhD programm. Hope I can find another good place to keep improving myself.
+I am now applying for a PhD program. Hope I can find another good place to keep improving myself.
 
 
 
