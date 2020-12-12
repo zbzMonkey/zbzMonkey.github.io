@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Hefei University of Technology (HFUT), Hefei, China , 2014-2018       
+* M.S. in University of Science and Technology of China (USTC), Hefei, China, 2018-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 03/2018-present: 
+  * University: USTC
+  * Project: Circuit mechanism of multi-sensory integration in C. elegans(leader)
+  * Supervisor: Prof. Quan Wen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 8/2020-present:   
+  * University: USTC
+  * Project: Investigate sensory neurons’ responses to different sensory stimuli(leader)
+  * Supervisor: Prof. Quan Wen
+ 
+* 5/2020-7/2020:   
+  * University: Zhejiang University
+  * Project: Sensory Glia Detect Repulsive Odorants and Drive Olfactory Adaptation(Participant)
+  * Supervisor: Prof. Lijun Kang          
+  
+* 6/2016-12/2017:   
+  * University: HFUT
+  * Project: Effect of metal ion metabolism on brain tumors in Drosophila(Participant)
+  * Supervisor: Prof. Guiran Xiao  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Microsoft Office
+  * Word
+  * Excel
+  * PPT
+* Inventor
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  *	Duan, D., Zhang, H., ..., Zhao B., …, Kang L. (2020). Sensory Glia Detect Repulsive Odorants and Drive Olfactory Adaptation. Neuron.
   
-Talks
+Academic Conferences 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * 2019 Attending the 22nd International C. elegans Conference, Los Angeles, CA
+ * 2018 (Presented a poster) Attending the 5th Chinese C. elegans Meeting, Yunnan, China
+ 
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
