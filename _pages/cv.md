@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}   
+
+[CV](https://www.jianguoyun.com/p/DS7nAqIQveq7CBjHndID)
 
 Education
 ======
@@ -48,12 +50,6 @@ Skills
 Publications
 ======
   *	Duan, D., Zhang, H., ..., Zhao B., …, Kang L. (2020). Sensory Glia Detect Repulsive Odorants and Drive Olfactory Adaptation. Neuron.
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Academic Conferences 
 ======
