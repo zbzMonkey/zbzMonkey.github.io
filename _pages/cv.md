@@ -1,14 +1,6 @@
----
-layout: archive
-title: "[CV]{https://www.jianguoyun.com/p/DS7nAqIQveq7CBjHndID}"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
-
+[CV](https://www.jianguoyun.com/p/DS7nAqIQveq7CBjHndID)    
+    
 Education
 ======
 * B.S. in Hefei University of Technology (HFUT), Hefei, China , 2014-2018       
