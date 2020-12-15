@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}   
 
-[CV in detail](https://www.jianguoyun.com/p/DS7nAqIQveq7CBjHndID)
+[CV in detail](https://github.com/zbzMonkey/zbzMonkey.github.io/blob/master/files/CV.pdf)
 
 Education
 ======
