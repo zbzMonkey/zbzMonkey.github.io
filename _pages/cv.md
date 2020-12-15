@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}   
 
-[CV](https://www.jianguoyun.com/p/DS7nAqIQveq7CBjHndID)
+[CV in detail](https://www.jianguoyun.com/p/DS7nAqIQveq7CBjHndID)
 
 Education
 ======
