@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}   
 
-[CV in detail](https://github.com/zbzMonkey/zbzMonkey.github.io/blob/master/files/CV.pdf)
+[CV in detail](https://www.jianguoyun.com/p/DS7nAqIQveq7CBjHndID)
 
 Education
 ======
-* B.S. in Hefei University of Technology (HFUT), Hefei, China , 2014-2018       
-* M.S. in University of Science and Technology of China (USTC), Hefei, China, 2018-2021
-
+* B.S. in Hefei University of Technology (HFUT), Hefei, China , 2014-2018    
+  * Major in Biology technology
+* M.S. in University of Science and Technology of China (USTC), Hefei, China, 2018-2021    
+  * Major in Neurobiology   
+  
 Work experience
 ======
 * 03/2018-present: 
@@ -40,12 +42,10 @@ Work experience
   
 Skills
 ======
-* Matlab
-* Microsoft Office
-  * Word
-  * Excel
-  * PPT
-* Inventor
+* Data analysis: Matlab; Microsoft Office（Word，Excel，PPT）
+* Engieering: Inventor; Adjust light path(not professional)
+* Experiments(main)：Microinjection(C. elegans); Anatomy(Drosophila larva brain); Plasmid construction; Calcium imaging; Neuron killing
+
 
 Publications
 ======
