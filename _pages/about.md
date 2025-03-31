@@ -9,17 +9,7 @@ redirect_from:
 ---
 
 
-I am Bingzhen Zhao, a student who is majored in neuroscience. I want to know more about the mechanism of learning and memory, attention and emotion. I also want to learn something about engineering so that I can design some products to help people with neuron system disorders if possible.
-I am currently at [Wenlab, the school of life sciences, University of Science and Technology of China (USTC)](http://en.biox.ustc.edu.cn/). Now I am working to find how the sensory information integrate in C.elegans.
-
-
----
-## Recent news
----
-
-
-I am preparing to graduate from USTC. It is a great time these two years. I have learned a lot and made some good friends.  
-I am now applying for a PhD program. Hope I can find another good place to keep improving myself.
+​I'm Bingzhen Zhao, a neuroscience major with a keen interest in understanding the mechanisms underlying decision-making, attention, and emotion. Additionally, I'm eager to explore engineering principles to design products that could assist individuals with nervous system disorders.​ Currently, I am a member of Dr. Nuo Li's lab at Duke University. My research focuses on to investigate the driving sources of decision variable. We develope methods to help us understand the invisible process inside brain during decision-making which is pretty exciting.
 
 
 
